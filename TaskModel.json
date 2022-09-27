@@ -1244,7 +1244,7 @@
 		},
 		{
 			"name": "Orient-Express",
-			"stations": [ "XFPO", "XFCM", "XFN", "XFSTG", "TS", "MH", "XASB", "XAWW", "XMG", "XMBK", "XJST", "XJBC", "XJNI", "XWS", "XQIS" ],
+			"stations": [ "XFPEST", "XFCM", "XFN", "XFSTG", "TS", "MH", "XASB", "XAWW", "XMG", "XMBK", "XJST", "XJBC", "XJNI", "XWS", "XQIS" ],
 			"descriptions": [
 				"Fahre auf den Spuren des legendären Orient-Express von %s nach %s.",
 				"Bringe die Gäste auf der berühmten Route nach %2$s.",
